@@ -1,4 +1,3 @@
-layout_spectrum: 0.9254630072973669
 typography_spectrum: 0.12211523111909628
 color:
   brandStrength: 0.7325886324979365
@@ -6,9 +5,11 @@ color:
   saturation: 0.44528697757050395
   rhythmicContrast: 0.5307559461798519
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.9254630072973669
 name: Geyser Dacosta
+title: Geyser Dacosta
